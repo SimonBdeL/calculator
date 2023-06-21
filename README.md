@@ -1,3 +1,3 @@
 # calculator
 
-# test is it working
+A simple calculator with JS and CSS
